@@ -1,0 +1,10 @@
+baseURL = "https://brandonweeks.com/"
+languageCode = "en-us"
+title = "Brandon Weeks"
+theme = "PaperMod"
+
+googleAnalytics = "G-391PQ8RR1S"
+
+[params]
+defaultTheme = "light"
+disableThemeToggle = true
